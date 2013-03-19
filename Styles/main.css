@@ -1,0 +1,16 @@
+@charset "utf-8";
+#body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #FFF;
+}
+.body{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #FFF;
+	font-size: 13px;
+}
+body{
+	margin:0; 
+}  
+a img{
+	border: none; 
+}
