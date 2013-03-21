@@ -7,7 +7,8 @@ function IOS(){
 	var IOS = ( navigator.userAgent.match(/(iPad|iPhone|iPod)/i) ? true : false );
 	//redirect if device is IOS
 	if (IOS == true){
-		window.location = "http://87.117.228.65:11728/listen.pls";
+		//window.location = "http://87.117.228.65:11728/listen.pls";
+		window.location = "ios";
 	}
 }
 
